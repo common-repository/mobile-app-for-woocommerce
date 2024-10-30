@@ -1,0 +1,9 @@
+#woocommerce-product-data ul.wc-tabs li.shopapper_options a::before {
+
+    background-image: url('../images/icon.png');
+    background-size: 13px 13px;
+    display: inline-block;
+    width: 13px;
+    height: 13px;
+    content: "";
+}
